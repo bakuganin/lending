@@ -1,0 +1,262 @@
+.Desktop-1 {
+    position: relative;
+    width: 1516px;
+    height: 789px;
+
+    background: #FFDBDB
+}
+
+.Desktop-1 #square1 {
+    position: absolute;
+    width: 1888px;
+    height: 783px;
+    left: -186px;
+    top: 0px;
+    margin: auto;
+    background-image: url(../img/Rect.jpg);
+    background-size: 100%;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.Desktop-1 #square2 {
+    position: absolute;
+    width: 1888px;
+    height: 789px;
+    left: -186px;
+    top: 0px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.65);
+}
+
+.Desktop-1 #brain {
+    position: absolute;
+    width: 94px;
+    height: 94px;
+    left: 711px;
+    top: 29px;
+    margin: auto;
+}
+
+.Desktop-1 h3 {
+    position: absolute;
+    width: 225px;
+    height: 21px;
+    left: 648px;
+    top: 125px;
+    margin: auto;
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    color: rgba(255, 255, 255, 1);
+}
+
+.Desktop-1 .h21 {
+    position: absolute;
+    width: 654px;
+    height: 42px;
+    left: 446px;
+    top: 185px;
+    margin: auto;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #FFC644;
+}
+
+.Desktop-1 .line-1 {
+    position: absolute;
+    width: 350px;
+    height: 0px;
+    left: 148px;
+    top: 266px;
+    margin: auto;
+}
+
+.Desktop-1 .line-2 {
+    position: absolute;
+    width: 350px;
+    height: 0px;
+    left: 1044px;
+    top: 266px;
+    margin: auto;
+}
+
+.Desktop-1 .itis {
+    position: absolute;
+    width: 497px;
+    height: 84px;
+    left: 525px;
+    top: 231px;
+    
+    margin: auto;
+    margin-right: 20px;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-size: 72px;
+    line-height: 84px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.Desktop-1 .h22 {
+    position: absolute;
+    width: 809px;
+    height: 42px;
+    left: 373px;
+    top: 319px;
+    margin: auto;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #FFC644;
+}
+
+.Desktop-1 .free3 span {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: rgba(255, 198, 68, 1);
+    margin: auto;
+}
+
+.Desktop-1 .free1 {
+    position: absolute;
+    width: 1221px;
+    height: 28px;
+    left: 148px;
+    top: 377px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    margin: auto;
+    color: #FFFFFF;
+}
+
+.Desktop-1 .free2 {
+    position: absolute;
+    width: 1221px;
+    height: 28px;
+    left: 148px;
+    top: 406px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    margin: auto;
+    color: #FFFFFF;
+}
+
+.Desktop-1 .free3 {
+    position: absolute;
+    width: 1221px;
+    height: 28px;
+    left: 148px;
+    top: 438px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    margin: auto;
+    color: #FFFFFF;
+}
+
+.Desktop-1 .square3 {
+    position: absolute;
+    width: 310px;
+    height: 72px;
+    left: 603px;
+    top: 534px;
+
+    background: linear-gradient(180deg, #39B4D8 0%, #2799BA 100%);
+}
+
+.Desktop-1 .square3 span {
+    position: absolute;
+/*    width: 179px;
+    height: 21px;
+    left: 668px;
+    top: 560px;*/
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    margin-top: 26px;
+    margin-bottom: 25px;
+    margin-left: 65px;
+    margin-left: 66px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.Desktop-1 #arrow {
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    left: 743px;
+    top: 711px;
+    margin: auto;
+}
+
+.Desktop-1 .info-1 {
+    position: absolute;
+    width: 291px;
+    height: 16px;
+    left: 612px;
+    top: 679px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.Desktop-2 {
+    margin: auto;
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+    background: #EFEFEF;
+}
+
+.Desktop-3 {
+    margin: auto;
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+    background: #FFFFFF;
+}
